@@ -7,4 +7,4 @@
 - CSS: iniciando 
 - JavaScript: nada
 - Git: iniciando 
-- python: Básico
+- C e C#: Básico
